@@ -2,13 +2,11 @@
 
 A new Flutter project.
 
-## Demo
+## Preview
 
-![demo](assets/demo/demo.gif)
-
-## Screenshot
-
-![screenshot](assets/demo/screenshot.png)
+| Demo | Screenshot |
+|------|------------|
+| <img src="assets/demo/demo.gif" alt="demo" width="300"/> | <img src="assets/demo/screenshot.png" alt="screenshot" width="300"/> |
 
 ## Getting Started
 
